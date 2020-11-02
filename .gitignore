@@ -1,0 +1,8 @@
+main.csv
+env
+env/
+__pycashe__/
+__pycashe__
+*.pyc
+.idea/
+debug.json
